@@ -1,7 +1,7 @@
 <img src="assets/profile-banner.svg" width="100%" alt="Jamal Apicha — Computer Science and Engineering at The Ohio State University">
 
 <div align="center">
-  <a href="https://github.com/jamalmohadinho/jamal-apicha-portfolio">
+  <a href="https://jamalapicha.com">
     <img src="https://img.shields.io/badge/Portfolio-fff7e8?style=for-the-badge&amp;logo=googlechrome&amp;logoColor=173542" alt="Portfolio repository">
   </a>
   <a href="https://www.linkedin.com/in/jamalapicha">
@@ -32,7 +32,9 @@ My projects span web development and software engineering coursework, from React
 - **[Split the Bill](https://github.com/jamalmohadinho/split-the-bill)** — a shared trip expense tracker that helps groups organize travel costs in one place. Users can sign up, manage trips and participants, and record expenses with amounts, categories, dates, and who paid. Built with Ruby on Rails and SQLite, the app connects users, trips, and expenses through a relational data model.
 - **[React Movie App](https://github.com/jamalmohadinho/React_Movie-App)** — a movie discovery app for browsing popular titles and searching for your next watch. Built with React and Vite, it integrates movie API data into a responsive interface with poster cards, loading indicators, and error handling, demonstrating API integration and asynchronous UI updates.
 - **[Meme Generator](https://github.com/jamalmohadinho/Meme-Generator-Project)** — an interactive app that turns an image URL and custom top and bottom captions into a meme. Users can add multiple memes to the page and remove individual creations with a click. Built with HTML, CSS, and JavaScript to practice form handling, event delegation, and dynamic DOM updates.
-- **[My Portfolio](https://github.com/jamalmohadinho/jamal-apicha-portfolio)** — a responsive personal website showcasing my projects, technical skills, experience, and education. Built with React, Vite, and Tailwind CSS, it includes day and night themes, keyboard-accessible navigation, interactive skills tabs, and resume access, with content organized for easy updates.
+
+
+🌟 **Community:** I've been involved with **CodePath**, **ColorStack**, **JPMorgan Chase's Code for Good Hackathon**, **Springboard**, and other technical communities.
 
 🤝 **Let's connect:** find me on [LinkedIn](https://www.linkedin.com/in/jamalapicha) or explore my [GitHub repositories](https://github.com/jamalmohadinho?tab=repositories).
 
@@ -42,28 +44,45 @@ My projects span web development and software engineering coursework, from React
 
 ### 💻 Technologies & Tools
 
-**Programming Languages**
+**Languages**
 
 <p>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&amp;logo=openjdk&amp;logoColor=white" alt="Java">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&amp;logo=javascript&amp;logoColor=black" alt="JavaScript">
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&amp;logo=c&amp;logoColor=white" alt="C">
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&amp;logo=php&amp;logoColor=white" alt="PHP">
-  <img src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&amp;logo=ruby&amp;logoColor=white" alt="Ruby">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&amp;logo=python&amp;logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&amp;logo=openjdk&amp;logoColor=white" alt="Java">
+  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&amp;logoColor=white" alt="SQL">
 </p>
 
 **Frontend**
 
 <p>
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&amp;logo=react&amp;logoColor=61DAFB" alt="React">
+  <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&amp;logo=redux&amp;logoColor=white" alt="Redux">
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&amp;logo=tailwindcss&amp;logoColor=white" alt="Tailwind CSS">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&amp;logo=html5&amp;logoColor=white" alt="HTML5">
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&amp;logo=css&amp;logoColor=white" alt="CSS3">
 </p>
 
-**Workflow & APIs**
+**Backend**
+
+<p>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&amp;logo=nodedotjs&amp;logoColor=white" alt="Node.js">
+  <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&amp;logo=express&amp;logoColor=white" alt="Express">
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&amp;logo=flask&amp;logoColor=white" alt="Flask">
+</p>
+
+**Databases**
+
+<p>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&amp;logo=mongodb&amp;logoColor=white" alt="MongoDB">
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&amp;logo=postgresql&amp;logoColor=white" alt="PostgreSQL">
+</p>
+
+**Tools**
 
 <p>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&amp;logo=git&amp;logoColor=white" alt="Git">
   <img src="https://img.shields.io/badge/GitHub-173542?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="GitHub">
-  <img src="https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge&amp;logo=axios&amp;logoColor=white" alt="Axios">
+  <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&amp;logo=jira&amp;logoColor=white" alt="Jira">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&amp;logo=docker&amp;logoColor=white" alt="Docker">
 </p>
