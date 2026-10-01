@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320" role="img" aria-labelledby="title desc">
+  <title id="title">Jamal Apicha</title>
+  <desc id="desc">Computer Science and Engineering at The Ohio State University</desc>
+  <rect width="1200" height="320" rx="24" fill="#fff7e8"/>
+  <circle cx="1120" cy="40" r="180" fill="#f8bbd0" opacity=".55"/>
+  <circle cx="50" cy="330" r="130" fill="#d98b67" opacity=".18"/>
+  <path d="M900 100l-45 45 45 45M1030 100l45 45-45 45M990 85l-40 120" fill="none" stroke="#173542" stroke-width="12" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="85" y="105" font-family="Arial, Helvetica, sans-serif" font-size="20" letter-spacing="5" fill="#a45c40">HELLO, WORLD</text>
+  <text x="80" y="180" font-family="Arial, Helvetica, sans-serif" font-size="64" font-weight="700" fill="#173542">Jamal Apicha</text>
+  <text x="85" y="230" font-family="Arial, Helvetica, sans-serif" font-size="24" fill="#173542">Computer Science &amp; Engineering · The Ohio State University</text>
+</svg>
